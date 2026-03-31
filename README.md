@@ -24,7 +24,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:000000,100:36854C&height=120&section=footer" alt="divider" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="divider" width="100%" />
 
 ## About Me
 
@@ -32,7 +32,7 @@ I'm a **Senior Executive Audio Visual Engineer**, and aspiring **Web Designer**,
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:000000,100:36854C&height=120&section=footer" alt="divider" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="divider" width="100%" />
 
 ## <img src="https://img.shields.io/badge/CIPHER-BC0000?style=for-the-badge" alt="Cipher" /> Cipher Tracker
 
@@ -67,14 +67,14 @@ I'm a **Senior Executive Audio Visual Engineer**, and aspiring **Web Designer**,
   <a href="https://www.cipher-app.org/">
     <img src="https://img.shields.io/badge/Visit_Website-BC0000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>&nbsp;
-  <a href="https://testflight.apple.com/join/ciphertracker">
+  <a href="https://testflight.apple.com/join/pttfbznm">
     <img src="https://img.shields.io/badge/Join_TestFlight-000000?style=for-the-badge&logo=apple&logoColor=white" alt="TestFlight" />
   </a>
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:000000,100:36854C&height=120&section=footer" alt="divider" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="divider" width="100%" />
 
 ## Tech Stack
 
@@ -132,7 +132,7 @@ I'm a **Senior Executive Audio Visual Engineer**, and aspiring **Web Designer**,
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:000000,100:36854C&height=120&section=footer" alt="divider" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="divider" width="100%" />
 
 ## GitHub Stats
 
@@ -166,7 +166,7 @@ I'm a **Senior Executive Audio Visual Engineer**, and aspiring **Web Designer**,
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:000000,100:36854C&height=120&section=footer" alt="divider" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="divider" width="100%" />
 
 <div align="center">
 
