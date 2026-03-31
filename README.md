@@ -4,20 +4,20 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=BC0000&center=true&vCenter=true&width=600&lines=Senior+AV+Engineer+%40+The+Aspen+Group;Building+Cipher+Tracker+%E2%80%94+Privacy-First+Health+Tracking;AES-256+Encrypted.+Zero-Knowledge.+No+Compromises.;React+Native+%7C+TypeScript+%7C+Crestron+%7C+Extron;Master+Your+Habits.+Secure+Your+Life." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=BC0000&center=true&vCenter=true&width=600&lines=Senior+AV+Engineer+%40+The+Aspen+Group;Founder+of+Cipher+Tracker;Master+Your+Habits.+Secure+Your+Life." alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://johngeddes.org">
+  <a href="https://www.johngeddes.org/">
     <img src="https://img.shields.io/badge/johngeddes.org-BC0000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>&nbsp;
-  <a href="https://linkedin.com/in/therealjohngeddes">
+  <a href="https://www.linkedin.com/in/therealjohngeddes">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
-  <a href="https://ciphertracker.app">
+  <a href="https://www.cipher-app.org/">
     <img src="https://img.shields.io/badge/Cipher_Tracker-BC0000?style=for-the-badge&logo=shieldsdotio&logoColor=white" alt="Cipher Tracker" />
   </a>
 </div>
@@ -30,11 +30,7 @@
 
 ## About Me
 
-I'm a **Senior Audio Visual Engineer** at **The Aspen Group (TAG)** in Chicago, where I design and deploy enterprise AV systems on **Crestron** and **Extron** platforms. But when the conference rooms go dark, I write code.
-
-I build privacy-first software because I believe your data should belong to **you** — not your apps, not the cloud, and not advertisers. That conviction led me to create **Cipher Tracker**, a health and habit tracking app where every byte of user data is encrypted with **AES-256** before it ever leaves your device.
-
-**Loyola University Chicago** alum. Based in **Chicago, IL**.
+I'm a **Senior Executive Audio Visual Engineer**, and aspiring **Web Designer**, **Data Analyst**, and **App Developer** working from **Chicago, IL**. In the most recent months, I have been working at **The Aspen Group (TAG)**. On the side, I've been working on projects to ensure my sanity, and they are becoming more fun for me. I am always willing to try new things and work with anyone and everyone.
 
 <br/>
 
@@ -72,7 +68,7 @@ I build privacy-first software because I believe your data should belong to **yo
 <br/>
 
 <div align="center">
-  <a href="https://ciphertracker.app">
+  <a href="https://www.cipher-app.org/">
     <img src="https://img.shields.io/badge/Visit_Website-BC0000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>&nbsp;
   <a href="https://testflight.apple.com/join/ciphertracker">
