@@ -128,7 +128,11 @@ I'm a **Senior Executive Audio Visual Engineer**, and aspiring **Web Designer**,
 <div align="center">
 
 ![Crestron](https://img.shields.io/badge/Crestron-333333?style=for-the-badge&logoColor=white)
-![Extron](https://img.shields.io/badge/Extron-333333?style=for-the-badge&logoColor=white)
+![Q-SYS](https://img.shields.io/badge/Q--SYS-333333?style=for-the-badge&logoColor=white)
+![Logi](https://img.shields.io/badge/Logi-333333?style=for-the-badge&logoColor=white)
+![Neat](https://img.shields.io/badge/Neat-333333?style=for-the-badge&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-333333?style=for-the-badge&logo=cisco&logoColor=white)
+![Biamp](https://img.shields.io/badge/Biamp-333333?style=for-the-badge&logoColor=white)
 
 </div>
 
