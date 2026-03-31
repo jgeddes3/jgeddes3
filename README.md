@@ -137,9 +137,9 @@ I'm a **Senior Executive Audio Visual Engineer**, and aspiring **Web Designer**,
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jgeddes3&show_icons=true&hide_border=true&bg_color=000000&title_color=36854C&text_color=FFFFFF&icon_color=36854C" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jgeddes3&show_icons=true&hide_border=true&bg_color=000000&title_color=36854C&text_color=FFFFFF&icon_color=36854C" alt="GitHub Stats" height="180" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgeddes3&layout=compact&hide_border=true&bg_color=000000&title_color=36854C&text_color=FFFFFF" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jgeddes3&layout=compact&hide_border=true&bg_color=000000&title_color=36854C&text_color=FFFFFF" alt="Top Languages" height="180" />
 </div>
 
 <br/>
