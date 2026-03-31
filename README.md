@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=BC0000&center=true&vCenter=true&width=600&lines=Senior+AV+Engineer+%40+The+Aspen+Group;Founder+of+Cipher+Tracker;Master+Your+Habits.+Secure+Your+Life." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36854C&center=true&vCenter=true&width=600&lines=Senior+AV+Engineer+%40+The+Aspen+Group;Founder+of+Cipher+Tracker;Master+Your+Habits.+Secure+Your+Life." alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://www.johngeddes.org/">
-    <img src="https://img.shields.io/badge/johngeddes.org-BC0000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/johngeddes.org-36854C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/therealjohngeddes">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -24,9 +24,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:000000,100:36854C&height=120&section=footer" alt="divider" width="100%" />
 
 ## About Me
 
@@ -34,9 +32,7 @@ I'm a **Senior Executive Audio Visual Engineer**, and aspiring **Web Designer**,
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:000000,100:36854C&height=120&section=footer" alt="divider" width="100%" />
 
 ## <img src="https://img.shields.io/badge/CIPHER-BC0000?style=for-the-badge" alt="Cipher" /> Cipher Tracker
 
@@ -78,9 +74,7 @@ I'm a **Senior Executive Audio Visual Engineer**, and aspiring **Web Designer**,
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:000000,100:36854C&height=120&section=footer" alt="divider" width="100%" />
 
 ## Tech Stack
 
@@ -138,28 +132,26 @@ I'm a **Senior Executive Audio Visual Engineer**, and aspiring **Web Designer**,
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:000000,100:36854C&height=120&section=footer" alt="divider" width="100%" />
 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jgeddes3&show_icons=true&hide_border=true&bg_color=000000&title_color=BC0000&text_color=FFFFFF&icon_color=BC0000" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jgeddes3&show_icons=true&hide_border=true&bg_color=000000&title_color=36854C&text_color=FFFFFF&icon_color=36854C" alt="GitHub Stats" height="180" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgeddes3&layout=compact&hide_border=true&bg_color=000000&title_color=BC0000&text_color=FFFFFF" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgeddes3&layout=compact&hide_border=true&bg_color=000000&title_color=36854C&text_color=FFFFFF" alt="Top Languages" height="180" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgeddes3&background=000000&stroke=161B22&ring=BC0000&fire=FF3333&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=BC0000&sideLabels=BC0000&dates=AAAAAA&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgeddes3&background=000000&stroke=161B22&ring=36854C&fire=4CAF50&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=36854C&sideLabels=36854C&dates=AAAAAA&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jgeddes3&bg_color=000000&color=FFFFFF&line=BC0000&point=FF3333&area_color=BC0000&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jgeddes3&bg_color=000000&color=FFFFFF&line=36854C&point=4CAF50&area_color=36854C&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="100%" />
 </div>
 
 <br/>
@@ -174,9 +166,7 @@ I'm a **Senior Executive Audio Visual Engineer**, and aspiring **Web Designer**,
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:000000,100:36854C&height=120&section=footer" alt="divider" width="100%" />
 
 <div align="center">
 
@@ -184,6 +174,6 @@ I'm a **Senior Executive Audio Visual Engineer**, and aspiring **Web Designer**,
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=jgeddes3&color=BC0000&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=jgeddes3&color=36854C&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
