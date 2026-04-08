@@ -34,6 +34,26 @@ I'm a **Senior Executive Audio Visual Engineer**, and aspiring **Web Designer**,
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
+## 🎵 Now Playing
+
+<div align="center">
+
+<!-- LASTFM:START -->
+*Waiting for first Last.fm update...*
+<!-- LASTFM:END -->
+
+<br/>
+
+<a href="https://www.last.fm/user/">
+  <img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white" alt="Last.fm" />
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
+
 ## <img src="https://img.shields.io/badge/CIPHER-BC0000?style=for-the-badge" alt="Cipher" /> Cipher Tracker
 
 > *"Master Your Habits. Secure Your Life."*
@@ -158,6 +178,16 @@ I'm a **Senior Executive Audio Visual Engineer**, and aspiring **Web Designer**,
 
 <div align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg" />
+    <img alt="3D Contribution Skyline" src="./profile-3d-contrib/profile-night-green.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgeddes3/jgeddes3/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jgeddes3/jgeddes3/output/github-snake.svg" />
     <img alt="Snake animation" src="https://raw.githubusercontent.com/jgeddes3/jgeddes3/output/github-snake-dark.svg" width="100%" />
@@ -171,6 +201,10 @@ I'm a **Senior Executive Audio Visual Engineer**, and aspiring **Web Designer**,
 <div align="center">
 
 *"Privacy is not about having something to hide. Privacy is about having something to protect."*
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Dev Quote" />
 
 <br/><br/>
 

@@ -1,0 +1,85 @@
+name: Update Last.fm
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update Last.fm recently played
+        env:
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+          LASTFM_USER: ${{ secrets.LASTFM_USER }}
+        run: |
+          python3 << 'PYEOF'
+          import json, os, re, urllib.request
+
+          api_key = os.environ["LASTFM_API_KEY"]
+          user = os.environ["LASTFM_USER"]
+
+          url = (
+              "https://ws.audioscrobbler.com/2.0/"
+              f"?method=user.getrecenttracks&user={user}"
+              f"&api_key={api_key}&limit=5&format=json"
+          )
+
+          with urllib.request.urlopen(url) as resp:
+              data = json.loads(resp.read().decode())
+
+          tracks = data.get("recenttracks", {}).get("track", [])
+
+          rows = []
+          for t in tracks[:5]:
+              name = t.get("name", "Unknown")
+              artist = t.get("artist", {}).get("#text", "Unknown") if isinstance(t.get("artist"), dict) else "Unknown"
+              track_url = t.get("url", "")
+              now_playing = bool(t.get("@attr", {}).get("nowplaying"))
+
+              image = ""
+              for img in t.get("image", []):
+                  if img.get("size") == "medium" and img.get("#text"):
+                      image = img["#text"]
+                      break
+
+              status = "🎶" if now_playing else ""
+              link = f"[{name}]({track_url})" if track_url else name
+
+              if image:
+                  rows.append(f"| <img src=\"{image}\" width=\"40\" /> | {link} | *{artist}* | {status} |")
+              else:
+                  rows.append(f"| 🎵 | {link} | *{artist}* | {status} |")
+
+          if rows:
+              table = "| | Track | Artist | |\n|:---:|:---|:---|:---:|\n" + "\n".join(rows)
+          else:
+              table = "*No recent tracks found*"
+
+          section = table
+
+          with open("README.md", "r") as f:
+              content = f.read()
+
+          pattern = r"<!-- LASTFM:START -->.*?<!-- LASTFM:END -->"
+          replacement = f"<!-- LASTFM:START -->\n{section}\n<!-- LASTFM:END -->"
+          content = re.sub(pattern, replacement, content, flags=re.DOTALL)
+
+          with open("README.md", "w") as f:
+              f.write(content)
+
+          print(f"Updated with {len(rows)} tracks")
+          PYEOF
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet --cached || (git commit -m "Update Last.fm recently played" && git push)
