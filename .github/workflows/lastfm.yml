@@ -28,7 +28,7 @@ jobs:
           url = (
               "https://ws.audioscrobbler.com/2.0/"
               f"?method=user.getrecenttracks&user={user}"
-              f"&api_key={api_key}&limit=5&format=json"
+              f"&api_key={api_key}&limit=1&format=json"
           )
 
           with urllib.request.urlopen(url) as resp:
@@ -36,8 +36,8 @@ jobs:
 
           tracks = data.get("recenttracks", {}).get("track", [])
 
-          rows = []
-          for t in tracks[:5]:
+          if tracks:
+              t = tracks[0]
               name = t.get("name", "Unknown")
               artist = t.get("artist", {}).get("#text", "Unknown") if isinstance(t.get("artist"), dict) else "Unknown"
               track_url = t.get("url", "")
@@ -45,24 +45,19 @@ jobs:
 
               image = ""
               for img in t.get("image", []):
-                  if img.get("size") == "medium" and img.get("#text"):
+                  if img.get("size") == "extralarge" and img.get("#text"):
                       image = img["#text"]
                       break
 
-              status = "🎶" if now_playing else ""
-              link = f"[{name}]({track_url})" if track_url else name
+              status = "🎶 Now Playing" if now_playing else "🎵 Recently Played"
+              link = f"[**{name}**]({track_url})" if track_url else f"**{name}**"
 
               if image:
-                  rows.append(f"| <img src=\"{image}\" width=\"40\" /> | {link} | *{artist}* | {status} |")
+                  section = f"<img src=\"{image}\" width=\"100\" />\n\n{status}\n\n{link} by *{artist}*"
               else:
-                  rows.append(f"| 🎵 | {link} | *{artist}* | {status} |")
-
-          if rows:
-              table = "| | Track | Artist | |\n|:---:|:---|:---|:---:|\n" + "\n".join(rows)
+                  section = f"{status}\n\n{link} by *{artist}*"
           else:
-              table = "*No recent tracks found*"
-
-          section = table
+              section = "*No recent tracks found*"
 
           with open("README.md", "r") as f:
               content = f.read()

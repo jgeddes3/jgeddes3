@@ -42,12 +42,6 @@ I'm a **Senior Executive Audio Visual Engineer**, and aspiring **Web Designer**,
 *Waiting for first Last.fm update...*
 <!-- LASTFM:END -->
 
-<br/>
-
-<a href="https://www.last.fm/user/">
-  <img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white" alt="Last.fm" />
-</a>
-
 </div>
 
 <br/>
