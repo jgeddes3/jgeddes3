@@ -39,7 +39,11 @@ I'm a **Senior Executive Audio Visual Engineer**, and aspiring **Web Designer**,
 <div align="center">
 
 <!-- LASTFM:START -->
-*Waiting for next Last.fm update...*
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9fac4b3198b348d4b7abde0ae70fb3a6.jpg" width="100" />
+
+🎵 Recently Played
+
+[**I’m Going to Heaven**](https://www.last.fm/music/Amigo+The+Devil/_/I%E2%80%99m+Going+to+Heaven) by *Amigo The Devil*
 <!-- LASTFM:END -->
 
 </div>
