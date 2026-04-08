@@ -52,6 +52,16 @@ I'm a **Senior Executive Audio Visual Engineer**, and aspiring **Web Designer**,
 
 <br/>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg" />
+    <img alt="3D Contribution Skyline" src="./profile-3d-contrib/profile-night-green.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
 ## <img src="https://img.shields.io/badge/CIPHER-BC0000?style=for-the-badge" alt="Cipher" /> Cipher Tracker
@@ -172,16 +182,6 @@ I'm a **Senior Executive Audio Visual Engineer**, and aspiring **Web Designer**,
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jgeddes3&bg_color=000000&color=FFFFFF&line=36854C&point=4CAF50&area_color=36854C&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg" />
-    <img alt="3D Contribution Skyline" src="./profile-3d-contrib/profile-night-green.svg" width="100%" />
-  </picture>
 </div>
 
 <br/>
