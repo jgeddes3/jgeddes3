@@ -39,7 +39,13 @@ I'm a **Senior Executive Audio Visual Engineer**, and aspiring **Web Designer**,
 <div align="center">
 
 <!-- LASTFM:START -->
-*Waiting for first Last.fm update...*
+| | Track | Artist | |
+|:---:|:---|:---|:---:|
+| <img src="https://lastfm.freetls.fastly.net/i/u/64s/9fac4b3198b348d4b7abde0ae70fb3a6.jpg" width="40" /> | [I’m Going to Heaven](https://www.last.fm/music/Amigo+The+Devil/_/I%E2%80%99m+Going+to+Heaven) | *Amigo The Devil* |  |
+| <img src="https://lastfm.freetls.fastly.net/i/u/64s/30522883c09d403b8e0184a942750c5b.png" width="40" /> | [Weigh Me Down](https://www.last.fm/music/Lorn/_/Weigh+Me+Down) | *Lorn* |  |
+| <img src="https://lastfm.freetls.fastly.net/i/u/64s/3c9b5d417045a0e11673b8f4479571cf.jpg" width="40" /> | [PERFEKT DARK](https://www.last.fm/music/Lorn/_/PERFEKT+DARK) | *Lorn* |  |
+| <img src="https://lastfm.freetls.fastly.net/i/u/64s/30522883c09d403b8e0184a942750c5b.png" width="40" /> | [Diamond](https://www.last.fm/music/Lorn/_/Diamond) | *Lorn* |  |
+| <img src="https://lastfm.freetls.fastly.net/i/u/64s/97e540829fc31c91b1d3949d23bcea4f.jpg" width="40" /> | [ANVIL](https://www.last.fm/music/Lorn/_/ANVIL) | *Lorn* |  |
 <!-- LASTFM:END -->
 
 <br/>
