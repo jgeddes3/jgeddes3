@@ -39,7 +39,7 @@ I'm a **Senior Executive Audio Visual Engineer**, and aspiring **Web Designer**,
 <div align="center">
 
 <!-- LASTFM:START -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9fac4b3198b348d4b7abde0ae70fb3a6.jpg" width="100" />
+<img src="https://lastfm-img.freetls.fastly.net/i/u/300x300/9fac4b3198b348d4b7abde0ae70fb3a6.jpg" width="100" />
 
 🎵 Recently Played
 
