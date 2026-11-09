@@ -39,11 +39,11 @@ I'm a **Senior Executive Audio Visual Engineer**, and aspiring **Web Designer**,
 <div align="center">
 
 <!-- LASTFM:START -->
-<img src="https://lastfm-img.freetls.fastly.net/i/u/300x300/9fac4b3198b348d4b7abde0ae70fb3a6.jpg" width="100" />
+<img src="https://lastfm-img.freetls.fastly.net/i/u/300x300/24a5221b55985904c54248d104fd2f16.jpg" width="100" />
 
 🎵 Recently Played
 
-[**I’m Going to Heaven**](https://www.last.fm/music/Amigo+The+Devil/_/I%E2%80%99m+Going+to+Heaven) by *Amigo The Devil*
+[**Which Side Are You On**](https://www.last.fm/music/The+Weavers/_/Which+Side+Are+You+On) by *The Weavers*
 <!-- LASTFM:END -->
 
 </div>
